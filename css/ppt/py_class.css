@@ -88,6 +88,11 @@ code {
     font-family: monospace;
 }
 
+section.scrollable {
+    overflow-y: auto;
+}
+
+
 .red-text {
     color: red !important;
 }
